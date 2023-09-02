@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "copper-harbor-397813",
+  "private_key_id": "da419bce0f93846316191458f78c2f6eb79638f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbvPm+NOHmT2bI\nX0h1FIw71jHBgDzgvUh8n6dNLrNZsMGaVfO0L+JmUGLaiKkDaT8A6neeHucFDVsA\nDph/SyDbhvTveF20y5vQDEOQpF8trNqXzJ+Oz+fz9dFDoyv6/E1DHIv5n4qdi5aA\nmgo6sHwX08n5TlwXJ5iCb+hD14rG8uW+qfBe6cVFxLY7NpIwv7was5YdcfNaG5Km\nOAOlfHBO2/dC14v+qTBc71fjTsyUV3umU6yzChDutXEKuqvN5kGWeXG1MWnSoC6Y\n7YkRzmLgFmuILZIyCosX7wkcyL7ZnmQKgzVsNyaN/HNc4xYZN84IxCdvg4f2TWy2\nw2O3yyl1AgMBAAECggEAApebzPWSZAkk1OUuk/Cg6bFeMffjZg+P3j6AJ4fncocB\nRa8aKBKNQTJhgFoTS+A7RPuCKpNIG8PT8CzdbZyfYtvJKD0+VLSquZKZwCm0oLzA\n8Yydq/hOOYwtLUZRMJCqnIaUghpgX7BAxAta4I/FpOYsJzCno2QNP+D2QLDSypZI\nWhnGRyqty7jV86mhSa928xcV6jzsOuKujETj7IhZSqbwOyZ56TI+QFx9Tf7tNia+\nuHiSBvP8YTgWn9I3LFTlzrtaJr4zscA3o7/jyxbQF+v1xkAy07iFhb7/5FByS7V3\n1aqa4ixbIadZDfZ9Ch9zo49xarEpabxLsMGelj4pSQKBgQDzZ1NzR4j3lXqsYMte\nMUCe+m7X6wvFwLMM7bEBLJV635G3K7czPAycq/xLQ8iXe1tBZ/tDsBkItX0SH0P6\n9tuUduBvkdRTu6npV1UcOBEWPBBcNxMakhVwHw2wkeIe8NCM+cYM4lB2yOa7Dbrm\nGdxrxattMkX8QgFvECUVmUm3iQKBgQDnHB+zXwxxbOTf6mlf7MB8Nu1GJiNnnOYC\n/9hlyGs9nmwbVIYodDoP4txuSf6osjXPYq0fZXIdRcMZbRZoSQO7WKnHzT3rKHtF\nige9GGOAS/mcAEaCGwLdac0Q+sVXkzNiobsWjNtrEiLwcBLTUFCmaPGDU7H2jGsV\n5Wm6gCC7jQKBgFXqafVuEbW6yLNh80cLQZEcOtXyPJSQAWOV3v3YG+dkVQ3/20m1\nb4o51vNGON7nhv2eU33AAgYl8cDc0mUaj8Vm9K/NHNJ1knMwBXXRgI6Fowy5z/94\nAyMxguaJh/R98k9gtvzDQb28Cl2Kaidgh4JvIqSHs1ZoghMO8tgd5HxpAoGBAL03\nWHkKU+y1xDnT+UxRUVMhwWhSp2AYpHVGNU04Jx0/DLHfpSuP5U3GZsVhjb9ekRHn\nb2iqLSDsUg0KNHNTfFux/ueYEZ7r+Ol5VlaqliSfj5D65L93EARpsDy7pEDMQyD4\n221eC/OA2NxUVgVu12k3uKzWJHmAg9hciRDqAGKtAoGAccQQUHQT9cdAB6m81sxY\nDQoNwCQUtY8XFpz/c7ocFDbDNmrn9TQyutwZBA6HdCLRVQkY+WF93S0R4dV5DxJH\ny9MRnh80YVvEt+WTWAfwJkq6osfSr/P/85YK3MV8IkqZDDvkMssYZkugzqS0URuT\ng1nlnMUdhS6BbUEXWH7gpBM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-cloud-sql@copper-harbor-397813.iam.gserviceaccount.com",
+  "client_id": "100815531753267739089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-cloud-sql%40copper-harbor-397813.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
